@@ -1,5 +1,5 @@
 ---
-title: "Manubot Rootstock: Manuscript Title"
+title: "RepairRepo: an interactive database for genome-wide DNA damage and repair"
 keywords:
   - markdown
   - publishing
@@ -7,14 +7,14 @@ keywords:
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
+    github: adebali
+    name: Ogun Adebali
+    initials: OA
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: compGenomics
+    email: oadebali@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Faculty of Engineering and Natural Sciences, Sabanci University
     funders: Grant XXXXXXXX
   -
     github: janeroe
