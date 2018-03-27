@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Ogun Adebali
 - Jane Roe
 date-meta: '2018-03-27'
 keywords:
@@ -8,7 +8,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-title: 'Manubot Rootstock: Manuscript Title'
+title: 'RepairRepo: an interactive database for genome-wide DNA damage and repair'
 ...
 
 
@@ -18,9 +18,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://adebali.github.io/manutry/v/c2fae25826111d8af4699a03745f1684b9f9c624/))
+([permalink](https://adebali.github.io/manutry/v/194b5bab7a5dd68e1be35d83035328449c22aa21/))
 was automatically generated
-from [adebali/manutry@c2fae25](https://github.com/adebali/manutry/tree/c2fae25826111d8af4699a03745f1684b9f9c624)
+from [adebali/manutry@194b5ba](https://github.com/adebali/manutry/tree/194b5bab7a5dd68e1be35d83035328449c22aa21)
 on March 27, 2018.
 </em></small>
 
@@ -28,15 +28,15 @@ on March 27, 2018.
 
 
 
-+ **John Doe**<br>
++ **Ogun Adebali**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [johndoe](https://github.com/johndoe)
+    [adebali](https://github.com/adebali)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [compGenomics](https://twitter.com/compGenomics)<br>
   <small>
-     Department of Something, University of Whatever
+     Faculty of Engineering and Natural Sciences, Sabanci University
      · Funded by Grant XXXXXXXX
   </small>
 
@@ -53,8 +53,7 @@ on March 27, 2018.
 
 ## Abstract {.page_break_before}
 
-
-
+This is an abstract.
 
 ## References {.page_break_before}
 

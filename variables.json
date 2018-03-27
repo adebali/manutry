@@ -2,14 +2,14 @@
   "date": "March 27, 2018",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
+      "github": "adebali",
+      "name": "Ogun Adebali",
+      "initials": "OA",
       "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "twitter": "compGenomics",
+      "email": "oadebali@gmail.com",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Faculty of Engineering and Natural Sciences, Sabanci University"
       ],
       "funders": "Grant XXXXXXXX",
       "affiliation_numbers": [
@@ -27,31 +27,35 @@
         "Department of Whatever, University of Something"
       ],
       "affiliation_numbers": [
-        1,
-        2
+        2,
+        3
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Faculty of Engineering and Natural Sciences, Sabanci University",
       "affiliation_number": 1
     },
     {
-      "affiliation": "Department of Whatever, University of Something",
+      "affiliation": "Department of Something, University of Whatever",
       "affiliation_number": 2
+    },
+    {
+      "affiliation": "Department of Whatever, University of Something",
+      "affiliation_number": 3
     }
   ],
   "ci_source": {
     "repo_slug": "adebali/manutry",
     "repo_owner": "adebali",
     "repo_name": "manutry",
-    "commit": "c2fae25826111d8af4699a03745f1684b9f9c624"
+    "commit": "194b5bab7a5dd68e1be35d83035328449c22aa21"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 216
+    "word_count": 220
   }
 }
