@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/adebali/manutry/tree/gh-pages) branch hosts the contents of this directory at https://adebali.github.io/manutry/.
-The permalink for this webpage version is https://adebali.github.io/manutry/v/c2fae25826111d8af4699a03745f1684b9f9c624/.
+The permalink for this webpage version is https://adebali.github.io/manutry/v/194b5bab7a5dd68e1be35d83035328449c22aa21/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://adebali.github.io/manutry/v/freeze/.
 
 ## Files
@@ -32,4 +32,4 @@ git add v/*/*.ots
 ## Source
 
 The manuscripts in this directory were built from
-[`c2fae25826111d8af4699a03745f1684b9f9c624`](https://github.com/adebali/manutry/commit/c2fae25826111d8af4699a03745f1684b9f9c624).
+[`194b5bab7a5dd68e1be35d83035328449c22aa21`](https://github.com/adebali/manutry/commit/194b5bab7a5dd68e1be35d83035328449c22aa21).
